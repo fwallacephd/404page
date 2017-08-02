@@ -10,17 +10,18 @@ body {
 }
 
 .main {
-    margin-top: 35px;
+    margin-top: 28px;
 }
 .error {
-    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
     color: white;
     text-align: center;
     font-size: 35px;
 }
 
 .headline {
-    font-family: 'Merriweather', serif;
+    margin-top: -3px;
+    font-family: 'PT Serif', serif;
     color: white;
     text-align: center;
     font-size: 40px;
@@ -34,7 +35,7 @@ body {
     color: white;
 }
 .footer {
-
+    margin-top: 370px;
     font-family: 'Merriweather', serif;
     color: white;
     text-align: center;
