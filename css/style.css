@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    margin-top: 35px;
+    margin-top: 28px;
 }
 .error {
     font-family: 'Merriweather', serif;
@@ -20,6 +20,7 @@ body {
 }
 
 .headline {
+    margin-top: -3px;
     font-family: 'Merriweather', serif;
     color: white;
     text-align: center;
