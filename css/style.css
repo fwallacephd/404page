@@ -9,9 +9,13 @@ body {
         height:100%;
 }
 
-.main {
-    margin-top: 28px;
+.header {
+    margin-top: 25px;
+    font-family: 'Merriweather', serif;
+    color: white;
+    text-align: center;
 }
+
 .error {
     font-family: 'PT Serif', serif;
     color: white;
@@ -20,12 +24,15 @@ body {
 }
 
 .headline {
-    margin-top: -3px;
+    padding-top: 0px;
+    margin-top: -5px;
     font-family: 'PT Serif', serif;
-    color: white;
+    color: red;
     text-align: center;
     font-size: 40px;
 }
+
+
 
 .red {
     color: red;
@@ -34,9 +41,4 @@ body {
 .white {
     color: white;
 }
-.footer {
-    margin-top: 400px;
-    font-family: 'Merriweather', serif;
-    color: white;
-    text-align: center;
-}
+
