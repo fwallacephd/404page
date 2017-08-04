@@ -18,7 +18,7 @@ body {
 
 .error {
     font-family: 'PT Serif', serif;
-    color: white;
+    color: red;
     text-align: center;
     font-size: 35px;
 }
